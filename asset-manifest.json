@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/github.io/movie-db/static/css/main.cdc038d7.css",
-    "main.js": "/github.io/movie-db/static/js/main.eaebc3a1.js",
-    "static/media/signup.jpg": "/github.io/movie-db/static/media/signup.287da856697814331c36.jpg",
-    "index.html": "/github.io/movie-db/index.html",
-    "main.cdc038d7.css.map": "/github.io/movie-db/static/css/main.cdc038d7.css.map",
-    "main.eaebc3a1.js.map": "/github.io/movie-db/static/js/main.eaebc3a1.js.map"
+    "main.css": "/movie-db/static/css/main.d2532227.css",
+    "main.js": "/movie-db/static/js/main.eaebc3a1.js",
+    "static/media/signup.jpg": "/movie-db/static/media/signup.287da856697814331c36.jpg",
+    "index.html": "/movie-db/index.html",
+    "main.d2532227.css.map": "/movie-db/static/css/main.d2532227.css.map",
+    "main.eaebc3a1.js.map": "/movie-db/static/js/main.eaebc3a1.js.map"
   },
   "entrypoints": [
-    "static/css/main.cdc038d7.css",
+    "static/css/main.d2532227.css",
     "static/js/main.eaebc3a1.js"
   ]
 }
